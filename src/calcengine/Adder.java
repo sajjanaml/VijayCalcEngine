@@ -2,9 +2,6 @@ package calcengine;
 
 public class Adder extends CalAbstract {
 	
-	/*int leftVal;
-	int rightVal;*/
-	//int result;
 	
 	Adder(){
 		
